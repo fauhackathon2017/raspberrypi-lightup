@@ -170,7 +170,7 @@ Make a directory on your machine, and clone the example code. If you're using Ma
 ```
 mkdir -p /opt/fau/iotf
 cd /opt/fau/iotf
-git clone https://github.com/dnguyenv/iot.git
+git clone https://github.com/fauhackathon2017/raspberrypi-lightup.git
 cd iot
 ```
 Open the server.py file and modify this part to match your setting
