@@ -1,0 +1,5 @@
+applications:
+- name: fau-lightup
+  memory: 128M
+  services:
+   - lightup
